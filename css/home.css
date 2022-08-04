@@ -1,0 +1,16 @@
+#home {
+  width: 100%;
+  height: calc(100vh - 3rem);
+  background-color: var(--cor-bg);
+}
+
+.titulo {
+  color: #FFF;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.titulo span {
+  color: var(--cor-secundaria);
+  font-size: 4.5rem;
+}

@@ -1,0 +1,13 @@
+header {
+  width: 100%;
+  height: 3rem;
+}
+
+.nav ul {
+  display: flex;
+}
+
+.nav a {
+  font-size: 1.5rem;
+  text-decoration: none;
+}

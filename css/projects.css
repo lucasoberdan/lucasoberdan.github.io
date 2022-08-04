@@ -1,0 +1,16 @@
+.projects {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.projects .titulo-h2 {
+  grid-column: 1 / -1;
+}
+
+.project-1 .titulo-h3, p, a {
+  grid-column: 1;
+}
+
+.projeto-impar img {
+  grid-column: 2;
+}

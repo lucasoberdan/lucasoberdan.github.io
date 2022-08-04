@@ -1,0 +1,28 @@
+:root {
+  --cor-secundaria: #0EE6B7;
+  --cor-bg: #1C1E22;
+}
+
+body {
+  font-family: Poppins;
+  margin: 0px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+}
