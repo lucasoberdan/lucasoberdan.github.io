@@ -1,0 +1,28 @@
+.footer {
+  border-top: 2px solid #c1c1c1;
+  background: var(--cor-bg);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-nav ul {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.footer-nav a {
+  color: #fff;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
+
+.brand {
+  font-size: 4rem;
+  margin: 2.5rem auto;
+}
+
+.copy {
+  text-align: center;
+  margin-bottom: 2.25rem;
+}
