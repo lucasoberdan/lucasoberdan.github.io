@@ -3,6 +3,11 @@ header {
   height: 3rem;
 }
 
+.header-div {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .nav ul {
   display: flex;
   gap: 2.5rem;

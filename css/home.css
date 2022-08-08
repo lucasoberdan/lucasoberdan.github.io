@@ -4,6 +4,11 @@
   background-color: var(--cor-bg);
 }
 
+.home {
+  align-items: center;
+  height: calc(100vh - 3rem);
+}
+
 .titulo {
   color: #FFF;
   font-size: 4rem;
